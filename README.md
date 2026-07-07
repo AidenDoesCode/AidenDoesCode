@@ -67,7 +67,6 @@
 <br/>
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235" alt="GitHub stats" />
 
