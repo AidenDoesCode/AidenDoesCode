@@ -6,7 +6,7 @@
 
 ### Computer Science & Mathematics Student
 
-<img src="assets/ua_logo.png" alt="University of Arkansas" width="260" />
+<img src="assets/ua_logo-2.png" alt="University of Arkansas" width="260" />
 
 <img src="https://komarev.com/ghpvc/?username=AidenDoesCode&label=Profile%20views&color=9d2235&style=flat" alt="Profile views" />
 
@@ -14,9 +14,9 @@
 
 <br/>
 
-<img align="right" src="assets/coffee.gif" alt="coffee break" width="230" />
-
 ## ☕ About Me
+
+<img align="right" src="assets/coffee.gif" alt="coffee break" width="230" />
 
 - 🔭 I'm currently working on **games that implement C#**
 - 🌱 I'm currently learning **C# OOP principles**
