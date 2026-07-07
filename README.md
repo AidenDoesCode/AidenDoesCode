@@ -28,7 +28,7 @@
 - ⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee**
 - 📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
 
-<br clear="right"/>
+<br clear="both"/>
 
 <div align="center">
 
@@ -47,31 +47,31 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" width="45" height="45"/></a>
 &nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="45" height="45"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs&theme=light" alt="C#" width="45" height="45"/></a>
 &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="45" height="45"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" width="45" height="45"/></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" width="45" height="45"/></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML5" width="45" height="45"/></a>
 &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS3" width="45" height="45"/></a>
 &nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="45" height="45"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask" width="45" height="45"/></a>
 &nbsp;
-<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="45" height="45"/></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity&theme=light" alt="Unity" width="45" height="45"/></a>
 &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" width="45" height="45"/></a>
 </p>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235&v=2" alt="GitHub stats" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&hide_border=true&bg_color=ffffff&title_color=9d2235&icon_color=9d2235&text_color=424242&v=3" alt="GitHub stats" />
 
-<img src="https://github-readme-stats-aidenramm.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235&v=2" alt="Top languages" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api/top-langs?username=AidenDoesCode&locale=en&layout=compact&hide_border=true&bg_color=ffffff&title_color=9d2235&text_color=424242&v=3" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=AidenDoesCode&hide_border=true&ring=9d2235&fire=9d2235&currStreakLabel=9d2235" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=AidenDoesCode&hide_border=true&background=ffffff&ring=9d2235&fire=9d2235&currStreakLabel=9d2235&currStreakNum=424242&sideNums=424242&sideLabels=9d2235&dates=9e9e9e" alt="GitHub streak" />
 
 </div>
