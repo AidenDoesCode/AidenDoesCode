@@ -6,7 +6,7 @@
 
 ### Computer Science & Mathematics Student
 
-<img src="assets/ua_logo.png" alt="University of Arkansas" width="260" />
+<img src="assets/ua_logo-2.png" alt="University of Arkansas" width="260" />
 
 <br/><br/>
 
