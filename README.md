@@ -1,37 +1,77 @@
+<div align="center">
+
+<img src="assets/coffee.gif" alt="coffee break" width="150" style="border-radius: 50%;" />
+
 # Hi 👋, I'm Aiden Ramsey
 
-### University Student
+### Computer Science & Mathematics Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AidenDoesCode&label=Profile views&color=0e75b6&style=flat" alt="AidenDoesCode" /> </p>
+<img src="assets/ua_logo.png" alt="University of Arkansas" width="300" />
 
-- 🔭 I'm currently working on **Games that Implement C#**
+<img src="https://komarev.com/ghpvc/?username=AidenDoesCode&label=Profile%20views&color=9d2235&style=flat" alt="Profile views" />
 
-- 🌱 I'm currently learning **C# OOP Principles**
+<br/><br/>
 
-- 👯 I'm looking to collaborate on **open source projects, games and scripting**
+🔭 I'm currently working on **games that implement C#**
 
-- 💬 Ask me about **Game Development, Full-Stack Development**
+🌱 I'm currently learning **C# OOP principles**
 
-- 📫 How to reach me **aidenramsey06@gmail.com**
+👯 I'm looking to collaborate on **open source projects, games, and scripting**
 
-- ⚡ Fun fact **I like hiking in the Ozark Mountains and I love starting my day off with coffee**
+💬 Ask me about **game development & full-stack development**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
+📫 How to reach me: **aidenramsey06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AidenDoesCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AidenDoesCode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aiden-ramsey-856319225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiden-ramsey-856319225" height="30" width="40" /></a>
-<a href="https://instagram.com/aidennramseyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidennramseyy" height="30" width="40" /></a>
-<a href="https://discord.gg/.aidenram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".aidenram" height="30" width="40" /></a>
+⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee** ☕
+
+📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
+
+<br/>
+
+## Connect with me
+
+<p align="center">
+<a href="https://github.com/AidenDoesCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" /></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aiden-ramsey-856319225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/aidennramseyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
+&nbsp;&nbsp;
+<a href="https://discord.gg/.aidenram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact" alt="AidenDoesCode" /></p>
+## Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en" alt="AidenDoesCode" /></p>
+<p align="center">
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/></a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="C#" width="45" height="45"/></a>
+&nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="45" height="45"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45"/></a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45"/></a>
+&nbsp;
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="45" height="45"/></a>
+&nbsp;
+<a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="45" height="45"/></a>
+&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AidenDoesCode&" alt="AidenDoesCode" /></p>
+<br/>
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AidenDoesCode&hide_border=true&ring=9d2235&fire=9d2235&currStreakLabel=9d2235" alt="GitHub streak" />
+
+</div>
