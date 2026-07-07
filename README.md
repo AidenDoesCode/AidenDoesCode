@@ -68,10 +68,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235" alt="GitHub stats" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235" alt="Top languages" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AidenDoesCode&hide_border=true&ring=9d2235&fire=9d2235&currStreakLabel=9d2235" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=AidenDoesCode&hide_border=true&ring=9d2235&fire=9d2235&currStreakLabel=9d2235" alt="GitHub streak" />
 
 </div>
