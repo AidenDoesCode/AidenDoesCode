@@ -1,34 +1,36 @@
 <div align="center">
 
-<img src="assets/coffee.gif" alt="coffee break" width="150" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/72889681?v=4" alt="Aiden Ramsey" width="150" />
 
 # Hi 👋, I'm Aiden Ramsey
 
 ### Computer Science & Mathematics Student
 
-<img src="assets/ua_logo-2.png" alt="University of Arkansas" width="300" />
+<img src="assets/ua_logo.png" alt="University of Arkansas" width="260" />
 
 <img src="https://komarev.com/ghpvc/?username=AidenDoesCode&label=Profile%20views&color=9d2235&style=flat" alt="Profile views" />
 
-<br/><br/>
-
-🔭 I'm currently working on **games that implement C#**
-
-🌱 I'm currently learning **C# OOP principles**
-
-👯 I'm looking to collaborate on **open source projects, games, and scripting**
-
-💬 Ask me about **game development & full-stack development**
-
-📫 How to reach me: **aidenramsey06@gmail.com**
-
-⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee** ☕
-
-📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
+</div>
 
 <br/>
 
-## Connect with me
+<img align="right" src="assets/coffee.gif" alt="coffee break" width="230" />
+
+## ☕ About Me
+
+- 🔭 I'm currently working on **games that implement C#**
+- 🌱 I'm currently learning **C# OOP principles**
+- 👯 I'm looking to collaborate on **open source projects, games, and scripting**
+- 💬 Ask me about **game development & full-stack development**
+- 📫 How to reach me: **aidenramsey06@gmail.com**
+- ⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee**
+- 📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
+
+<br clear="right"/>
+
+<div align="center">
+
+## 🤝 Connect with me
 
 <p align="center">
 <a href="https://github.com/AidenDoesCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" /></a>
@@ -40,9 +42,7 @@
 <a href="https://discord.gg/.aidenram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" /></a>
 </p>
 
-<br/>
-
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="45" height="45"/></a>
@@ -64,13 +64,11 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
 </p>
 
-<br/>
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235" alt="GitHub stats" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api?username=AidenDoesCode&show_icons=true&locale=en&theme=default&hide_border=true&title_color=9d2235&icon_color=9d2235&v=2" alt="GitHub stats" />
 
-<img src="https://github-readme-stats-aidenramm.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235" alt="Top languages" />
+<img src="https://github-readme-stats-aidenramm.vercel.app/api/top-langs?username=AidenDoesCode&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=9d2235&v=2" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=AidenDoesCode&hide_border=true&ring=9d2235&fire=9d2235&currStreakLabel=9d2235" alt="GitHub streak" />
 
