@@ -20,10 +20,10 @@
 
 <img align="right" src="assets/coffee.gif" alt="coffee break" width="230" />
 
-- 🔭 I'm currently working on **games that implement C#**
-- 🌱 I'm currently learning **C# OOP principles**
-- 👯 I'm looking to collaborate on **open source projects, games, and scripting**
-- 💬 Ask me about **game development & full-stack development**
+- 🔭 I'm currently working on building a full-stack app @ https://github.com/AidenDoesCode/WorkoutTracker
+- 🌱 I'm currently learning React & Using C#'s ORM
+- 👯 I'm looking to collaborate on **open source projects, games, and learning full-stack apps!**
+- 💬 Ask me about **game development & uark**
 - 📫 How to reach me: **aidenramsey06@gmail.com**
 - ⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee**
 - 📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
