@@ -26,7 +26,7 @@
 - 💬 Ask me about **game development & uark**
 - 📫 How to reach me: **aidenramsey06@gmail.com**
 - ⚡ Fun fact: **I like hiking in the Ozark Mountains and I love starting my day off with coffee**
-- 📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1r_wFcGzel9xKSjd02jx8nVToBjdJerIztuBZWR9XYhM/edit?usp=share_link)**
+- 📄 Know about my experiences: **[My Resume](https://docs.google.com/document/d/1bBqsMYyfLivHehCbQmaZlLfZ3OpsUL9Z/edit?usp=sharing&ouid=106410170959146893619&rtpof=true&sd=true)**
 
 <br clear="both"/>
 
