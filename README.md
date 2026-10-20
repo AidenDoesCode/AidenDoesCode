@@ -21,7 +21,7 @@
 <img align="right" src="assets/coffee.gif" alt="coffee break" width="230" />
 
 - 🔭 I'm currently working on building a full-stack app @ https://github.com/AidenDoesCode/WorkoutTracker
-- 🌱 I'm currently learning React & Using C#'s ORM
+- 🌱 I'm currently learning Java & the SpringBoot framework!
 - 👯 I'm looking to collaborate on **open source projects, games, and learning full-stack apps!**
 - 💬 Ask me about **game development & uark**
 - 📫 How to reach me: **aidenramsey06@gmail.com**
